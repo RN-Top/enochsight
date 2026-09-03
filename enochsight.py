@@ -12,8 +12,6 @@ Original file is located at
 from google.colab import userdata
 api_key = userdata.get("ENOCHIAN_API_KEY")
 
-!pip install -q requests beautifulsoup4 trimesh pyvista plotly
-import requests
 from bs4 import BeautifulSoup
 import re
 import trimesh # Explicitly import trimesh here
