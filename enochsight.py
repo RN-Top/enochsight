@@ -21,7 +21,6 @@ import trimesh
 import plotly.graph_objects as go
 import requests
 import io
-from google.colab import userdata
 
 print("Ensured all libraries are installed and imported.")
 
