@@ -24,7 +24,6 @@ import io
 
 print("Ensured all libraries are installed and imported.")
 
-from google.colab import userdata
 
 try:
     enochian_api_key = userdata.get('ENOCHIAN_API_KEY')
