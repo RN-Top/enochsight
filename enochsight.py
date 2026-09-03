@@ -17,8 +17,6 @@ import re
 import trimesh # Explicitly import trimesh here
 print("Ready.")
 
-!pip install -q requests beautifulsoup4 trimesh pyvista plotly
-
 # Re-import necessary libraries after installation
 import trimesh
 import plotly.graph_objects as go
