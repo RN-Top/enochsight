@@ -40,7 +40,6 @@ import trimesh
 import plotly.graph_objects as go
 import requests
 import io
-from google.colab import userdata # To access Colab Secrets
 from bs4 import BeautifulSoup
 import re
 import time
