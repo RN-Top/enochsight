@@ -787,8 +787,6 @@ for i, current_prompt in enumerate(prompts):
 
 print("\n--- All prompts processed and visualized ---")
 
-from google.colab import userdata
-
 try:
     enochian_api_key = userdata.get('ENOCHIAN_API_KEY')
     if enochian_api_key:
