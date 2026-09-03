@@ -1,5 +1,6 @@
-requests>=2.31.0
-beautifulsoup4>=4.12.0
-trimesh>=4.0.0
-plotly>=5.18.0
-pyvista>=0.43.0
+requests
+beautifulsoup4
+trimesh
+pyvista
+plotly
+streamlit
