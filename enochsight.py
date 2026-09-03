@@ -38,7 +38,6 @@ try:
 except Exception as e:
     print(f"An error occurred while trying to access Colab Secrets: {e}. Please ensure you have set up your ENOCHIAN_API_KEY.")
 
-!pip install -q trimesh
 import os
 import trimesh
 import plotly.graph_objects as go
